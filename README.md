@@ -1,6 +1,11 @@
 # Loan-Approval-Predictions
 It is a Project of Data Science where I am using ML to build a model which predicts whether loan will get approved or not.
 
+3 Files are 
+ - Data: Loand
+ - Code in JupyterNotebook: Loan Approval Prediction
+ - Model in binary file: model
+ 
 You can download my model and directly check your status.
 
 To predict your status you have to enter below listed details in numeric
