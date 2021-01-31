@@ -2,7 +2,7 @@
 It is a Project of Data Science where I am using ML to build a model which predicts whether loan will get approved or not.
 
 3 Files are 
- - Data: Loand
+ - Data: Loan
  - Code in JupyterNotebook: Loan Approval Prediction
  - Model in binary file: model
  
